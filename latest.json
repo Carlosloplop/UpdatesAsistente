@@ -1,0 +1,20 @@
+{
+  "product": "Descargador Catastral",
+  "channels": {
+    "stable": {
+      "version": "1.0.1",
+      "url": "",
+      "sha256": "",
+      "notes": "Versión base. Las actualizaciones automáticas se activarán al publicar la siguiente versión.",
+      "mandatory": false
+    },
+    "beta": {
+      "version": "1.0.1",
+      "url": "",
+      "sha256": "",
+      "notes": "Versión base.",
+      "mandatory": false
+    }
+  },
+  "clients": {}
+}
