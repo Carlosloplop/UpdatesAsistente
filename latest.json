@@ -2,10 +2,10 @@
   "product": "Descargador Catastral",
   "channels": {
     "stable": {
-      "version": "1.0.1",
-      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.0.1/update-v1.0.1.zip",
-      "sha256": "a5a54841348839dd0c1aabe8e24edd65fa8ffcf8013ceeb86ccc4642b834e4dc",
-      "notes": "Primera actualización automática publicada mediante GitHub Releases.",
+      "version": "1.0.2",
+      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.0.2/update-v1.0.2.zip",
+      "sha256": "b3c9605103dff3b45abe66c709520424eface506db56f3850841549f426a7791",
+      "notes": "Actualizacion automatica v1.0.2.",
       "mandatory": false
     },
     "beta": {
