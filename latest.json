@@ -9,10 +9,10 @@
       "mandatory": false
     },
     "beta": {
-      "version": "1.1.12",
-      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.1.12/update-v1.1.12.zip",
-      "sha256": "cf056794c2e68db36b649b1543494372a9109d7449b7a64e4631c2f5b9de9b88",
-      "notes": "Actualizacion automatica v1.1.12.",
+      "version": "1.1.13",
+      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.1.13/update-v1.1.13.zip",
+      "sha256": "4861f789df88820180cb5b66b563cc50c0607477eda721b80a91f8576e799840",
+      "notes": "Actualizacion automatica v1.1.13.",
       "mandatory": false
     }
   },
