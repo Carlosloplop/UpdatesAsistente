@@ -11,7 +11,7 @@
     "beta": {
       "version": "1.2",
       "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2/Asistente_Tasaciones_Setup_v1.2.exe",
-      "sha256": "f961225afd4333ed9e2d724253b003f035df6d19b2e5703c2376bb01e6f773d7",
+      "sha256": "1ec4d012ea796cb175aa4322793a7d58545b896bdeed7b339434b5c9e75b0a08",
       "notes": "Actualizacion v1.2 mediante instalador estandar.",
       "mandatory": false
     }
