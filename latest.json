@@ -9,10 +9,10 @@
       "mandatory": false
     },
     "beta": {
-      "version": "1.2.04",
-      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2.04/Asistente_Tasaciones_Setup_v1.2.04.exe",
-      "sha256": "588d84ba2bb2d338c3fb7ac7da95ffdeb1f14a13124e1e39129b0d0c045e0560",
-      "notes": "Actualizacion v1.2.04 mediante instalador estandar.",
+      "version": "1.2.05",
+      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2.05/Asistente_Tasaciones_Setup_v1.2.05.exe",
+      "sha256": "a6490751dcc877d1a7d7d722341730eb0e6163a33feb2af7bfbb38f035c5dc4e",
+      "notes": "Actualizacion v1.2.05: nuevo layout del Analizador registral, resumen global y control de pendientes de revision.",
       "mandatory": false
     }
   },
