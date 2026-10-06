@@ -9,10 +9,10 @@
       "mandatory": false
     },
     "beta": {
-      "version": "1.2.43",
-      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2.43/Asistente_Tasaciones_Setup_v1.2.43.exe",
-      "sha256": "2d4cd93784445c8515fc659cd34d88d3bddc02be7437e4aa5b84ff68606ae63f",
-      "notes": "Actualizacion v1.2.43 mediante instalador estandar.",
+      "version": "1.2.44",
+      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2.44/Asistente_Tasaciones_Setup_v1.2.44.exe",
+      "sha256": "af5fe77d2b0992573d549efb5c670bc6e380126281fa1b6e5c23d10625bee904",
+      "notes": "Actualizacion v1.2.44 mediante instalador estandar.",
       "mandatory": false
     }
   },
