@@ -1,20 +1,22 @@
 {
-  "product": "Descargador Catastral",
-  "channels": {
-    "stable": {
-      "version": "1.2",
-      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2/Asistente_Tasaciones_Setup_v1.2.exe",
-      "sha256": "dd4d829ffb0bb741343143289b230258d6a62c256065b162d5946d7de2a8da93",
-      "notes": "Version estable 1.2 para distribucion mediante instalador estandar firmado.",
-      "mandatory": false
-    },
-    "beta": {
-      "version": "1.2.86",
-      "url": "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2.86/Asistente_Tasaciones_Setup_v1.2.86.exe",
-      "sha256": "293ca86e069d06d988214bc1d5dd0283631e24662398e696c4d635b3c2ed1c46",
-      "notes": "Actualizacion v1.2.86 mediante instalador estandar.",
-      "mandatory": false
-    }
-  },
-  "clients": {}
+    "product":  "Descargador Catastral",
+    "channels":  {
+                     "stable":  {
+                                    "version":  "1.2",
+                                    "url":  "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2/Asistente_Tasaciones_Setup_v1.2.exe",
+                                    "sha256":  "dd4d829ffb0bb741343143289b230258d6a62c256065b162d5946d7de2a8da93",
+                                    "notes":  "Version estable 1.2 para distribucion mediante instalador estandar firmado.",
+                                    "mandatory":  false
+                                },
+                     "beta":  {
+                                  "version":  "1.2.87",
+                                  "url":  "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.2.87/Asistente_Tasaciones_Setup_v1.2.87.exe",
+                                  "sha256":  "fde38db26970baf504f2148d80a35cc6d4811cd35d800f447fe7d969609093ed",
+                                  "notes":  "Actualizacion v1.2.87 mediante instalador estandar.",
+                                  "mandatory":  false
+                              }
+                 },
+    "clients":  {
+
+                }
 }
