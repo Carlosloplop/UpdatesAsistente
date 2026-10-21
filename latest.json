@@ -2,10 +2,10 @@
     "product":  "Descargador Catastral",
     "channels":  {
                      "stable":  {
-                                    "version":  "1.3",
-                                    "url":  "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.3/Asistente_Tasaciones_Setup_v1.3.exe",
-                                    "sha256":  "c0e474b73f124cd28a23546a9303039444070878d328d3fc2713e4bdab7428b1",
-                                    "notes":  "Version estable 1.3. Editor TAS en desarrollo; mejoras continuas mediante actualizaciones.",
+                                    "version":  "1.3.1",
+                                    "url":  "https://github.com/Carlosloplop/UpdatesAsistente/releases/download/v1.3.1/Asistente_Tasaciones_Setup_v1.3.1.exe",
+                                    "sha256":  "d0c101ed702442a012443c263300c9caf82d1d6271c717503ba790cff4f7163b",
+                                    "notes":  "Version estable 1.3.1. Correcciones de referencias catastrales y ubicacion. Editor TAS EN DESARROLLO.",
                                     "mandatory":  false
                                 },
                      "beta":  {
